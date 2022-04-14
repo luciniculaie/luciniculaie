@@ -1,0 +1,43 @@
+adprodus Bijuterie InelDiamant 0 750 2018 Diamant True 3 11
+adprodus Mobila MobilaElena 0 100 2020 Dulap LemnMolid 3 15
+adprodus Bijuterie InelRubin 0 500 2019 Rubin True 2 12
+adprodus Mobila PatVechi 0 50 2000 Pat LemnStejar 2 8
+adprodus Bijuterie InelAur 0 300 2020 Aur False 2 7
+adprodus Tablou Flori 0 500 2005 GeorgeAvram Ulei 2 9
+adprodus Tablou Carute 0 300 2002 IonutPandele Ulei 3 5
+adprodus Tablou ArtaMoarta 0 200 2010 FlorinGeambasu Tempera 3 7
+adprodus Tablou Tigancusa 0 100 2012 RaulEftimiu Ulei 2 14
+adprodus Bijuterie InelSwarovski 0 3000 2018 Diamant True 2 10
+adprodus Tablou ArtaModerna 0 700 2015 NicolaeRachelea Acrilic 2 10
+adprodus Mobila NoptieraAnastasia 0 200 2021 Noptiera LemnStejar 3 20
+adprodus Bijuterie BrataraSmarald 0 1700 2020 Smarald True 4 15
+adprodus Tablou LaTara 0 1000 1990 GiovanniGioconda Acrilic 2 10
+adprodus Mobila BirouGaming 0 150 2020 Birou LemnNuc 3 13
+adprodus Tablou Lilieci 0 200 2002 LucianStoenescu Ulei 2 9
+adprodus Bijuterie ColierArgint 0 1000 2016 Argint False 4 16
+adprodus Mobila PatNou 0 500 2005 Pat LemnMesteacan 3 11
+adprodus Tablou BucurestiulAbstract 0 1000 2015 EmilianChivulescu Ulei 2 10
+adprodus Mobila DulapMagdalena 0 100 2005 Dulap LemnMolid 2 5
+adclient PF Maricel Strada_Florilor_Bucuresti 01.02.1995
+adclient PF Geani Bulevardul_Bucuresti 12.05.1990
+adclient PF Vlad Strada_Laptariei_Mereni 19.08.2000
+adclient PF Ionel Strada_Gherman_Bucuresti 10.10.1998
+adclient PJ Victor Strada_Bogatilor_Bucuresti SRL 20000
+adclient PF Ramon Strada_Telefoniei_Mihailesti 06.07.1970
+adbroker Gigel
+adbroker Marcel
+printproduse
+solicitalicitatie 1 10 1000
+solicitalicitatie 1 4 400
+solicitalicitatie 2 4 900
+solicitalicitatie 2 10 1100
+solicitalicitatie 3 10 1050
+solicitalicitatie 4 10 1075
+solicitalicitatie 3 4 800
+solicitalicitatie 5 5 150
+solicitalicitatie 6 5 200
+solicitalicitatie 3 3 1300
+solicitalicitatie 6 3 1450
+solicitalicitatie 1 3 1500
+solicitalicitatie 4 4 10
+solicitalicitatie 5 10 1125

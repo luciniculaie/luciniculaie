@@ -1,0 +1,157 @@
+adprodus Bijuterie InelDiamant 0 750 2018 Diamant True 3 11
+adprodus Mobila MobilaElena 0 100 2020 Dulap LemnMolid 3 15
+adprodus Bijuterie InelRubin 0 500 2019 Rubin True 2 12
+adprodus Mobila PatVechi 0 50 2000 Pat LemnStejar 2 8
+adprodus Bijuterie InelAur 0 300 2020 Aur False 2 7
+adprodus Tablou Flori 0 500 2005 GeorgeAvram Ulei 2 9
+adprodus Tablou Carute 0 300 2002 IonutPandele Ulei 3 5
+adprodus Tablou ArtaMoarta 0 200 2010 FlorinGeambasu Tempera 3 7
+adprodus Tablou Tigancusa 0 100 2012 RaulEftimiu Ulei 2 14
+adprodus Bijuterie InelSwarovski 0 3000 2018 Diamant True 2 10
+adprodus Tablou ArtaModerna 0 700 2015 NicolaeRachelea Acrilic 2 10
+adprodus Mobila NoptieraAnastasia 0 200 2021 Noptiera LemnStejar 3 20
+adprodus Bijuterie BrataraSmarald 0 1700 2020 Smarald True 4 15
+adprodus Tablou LaTara 0 1000 1990 GiovanniGioconda Acrilic 2 10
+adprodus Mobila BirouGaming 0 150 2020 Birou LemnNuc 3 13
+adprodus Tablou Lilieci 0 200 2002 LucianStoenescu Ulei 2 9
+adprodus Bijuterie ColierArgint 0 1000 2016 Argint False 4 16
+adprodus Mobila PatNou 0 500 2005 Pat LemnMesteacan 3 11
+adprodus Tablou BucurestiulAbstract 0 1000 2015 EmilianChivulescu Ulei 2 10
+adprodus Mobila DulapMagdalena 0 100 2005 Dulap LemnMolid 2 5
+adclient PF Maricel Strada_Florilor_Bucuresti 01.02.1995
+adclient PF Geani Bulevardul_Bucuresti 12.05.1990
+adclient PF Vlad Strada_Laptariei_Mereni 19.08.2000
+adclient PF Ionel Strada_Gherman_Bucuresti 10.10.1998
+adclient PJ Victor Strada_Bogatilor_Bucuresti SRL 20000
+adclient PF Ramon Strada_Telefoniei_Mihailesti 06.07.1970
+adbroker Mihnea
+adclient PF Laurentiu Strada_Boss_Bucuresti 04.02.1970
+adclient PJ Laur Strada_Paul_Popovici SA 1000
+adbroker Viorel
+adclient PF Lucian Strada_Resita_Bucuresti 17.04.2000
+adclient PJ Horia Bulevardul_Gh_Sincai_Bucuresti SRL 2000
+adclient PF Dorel Bd_Mare 02.04.2000
+adclient PF Alin Bucuresti 25.06.1999
+adclient PF Ibor Chiajna 15.11.1999
+adclient PF Tetinho CasaP 19.07.2001
+adclient PF Carlo Vaslui 19.08.2002
+solicitalicitatie 12 14 1972
+solicitalicitatie 4 2 1382
+solicitalicitatie 15 20 2369
+solicitalicitatie 10 5 2099
+solicitalicitatie 15 2 2076
+solicitalicitatie 10 14 2179
+solicitalicitatie 14 5 2445
+solicitalicitatie 11 5 1394
+solicitalicitatie 1 8 2052
+solicitalicitatie 5 11 987
+solicitalicitatie 7 5 1131
+solicitalicitatie 12 18 2225
+solicitalicitatie 11 16 2493
+solicitalicitatie 8 10 1157
+solicitalicitatie 10 19 1697
+solicitalicitatie 9 20 1564
+solicitalicitatie 9 3 2170
+solicitalicitatie 10 11 1327
+solicitalicitatie 9 7 1740
+solicitalicitatie 8 2 2413
+solicitalicitatie 10 10 1491
+solicitalicitatie 1 16 1200
+solicitalicitatie 3 5 1518
+solicitalicitatie 6 16 1575
+solicitalicitatie 4 19 2323
+solicitalicitatie 10 2 1787
+solicitalicitatie 2 11 2267
+solicitalicitatie 3 17 1367
+solicitalicitatie 4 11 1763
+solicitalicitatie 4 4 1591
+solicitalicitatie 5 15 1069
+solicitalicitatie 6 6 1646
+solicitalicitatie 10 2 1496
+solicitalicitatie 7 19 2126
+solicitalicitatie 9 17 1600
+solicitalicitatie 6 19 1018
+solicitalicitatie 14 16 2428
+solicitalicitatie 14 5 1169
+solicitalicitatie 8 4 1763
+solicitalicitatie 8 3 2414
+solicitalicitatie 10 15 2038
+solicitalicitatie 3 11 1196
+solicitalicitatie 1 18 988
+solicitalicitatie 3 13 1183
+solicitalicitatie 4 6 1261
+solicitalicitatie 3 19 1804
+solicitalicitatie 4 13 1375
+solicitalicitatie 14 4 1610
+solicitalicitatie 13 18 1481
+solicitalicitatie 7 15 1752
+solicitalicitatie 2 3 1432
+solicitalicitatie 9 6 2010
+solicitalicitatie 13 13 1511
+solicitalicitatie 5 17 1927
+solicitalicitatie 5 20 2483
+solicitalicitatie 11 17 1809
+solicitalicitatie 5 2 1068
+solicitalicitatie 13 8 2047
+solicitalicitatie 1 19 1513
+solicitalicitatie 2 17 1947
+solicitalicitatie 5 4 1726
+solicitalicitatie 5 17 1306
+solicitalicitatie 4 9 1707
+solicitalicitatie 9 20 1969
+solicitalicitatie 10 2 1362
+solicitalicitatie 3 16 2253
+solicitalicitatie 6 7 2030
+solicitalicitatie 4 13 1686
+solicitalicitatie 4 3 968
+solicitalicitatie 8 3 1931
+solicitalicitatie 1 6 1099
+solicitalicitatie 9 3 1407
+solicitalicitatie 7 19 2129
+solicitalicitatie 13 3 2247
+solicitalicitatie 5 10 1902
+solicitalicitatie 5 9 1801
+solicitalicitatie 1 8 1699
+solicitalicitatie 4 6 1452
+solicitalicitatie 10 16 1468
+solicitalicitatie 5 12 1470
+solicitalicitatie 15 18 2456
+solicitalicitatie 12 13 2127
+solicitalicitatie 7 4 2386
+solicitalicitatie 2 8 1681
+solicitalicitatie 14 13 1152
+solicitalicitatie 5 18 1308
+solicitalicitatie 10 1 1483
+solicitalicitatie 13 15 2192
+solicitalicitatie 1 20 2309
+solicitalicitatie 12 7 1175
+solicitalicitatie 9 9 1918
+solicitalicitatie 1 9 1390
+solicitalicitatie 12 18 2070
+solicitalicitatie 6 2 2438
+solicitalicitatie 6 8 1445
+solicitalicitatie 13 5 2145
+solicitalicitatie 8 20 1133
+solicitalicitatie 3 16 2249
+solicitalicitatie 1 6 1433
+solicitalicitatie 15 1 2424
+solicitalicitatie 14 11 1228
+solicitalicitatie 2 16 1215
+solicitalicitatie 3 8 1235
+solicitalicitatie 4 13 1328
+solicitalicitatie 8 3 914
+solicitalicitatie 12 16 967
+solicitalicitatie 3 8 1333
+solicitalicitatie 10 14 996
+solicitalicitatie 13 9 2491
+solicitalicitatie 1 6 2299
+solicitalicitatie 7 8 979
+solicitalicitatie 14 3 2208
+solicitalicitatie 12 14 2128
+solicitalicitatie 10 14 1251
+solicitalicitatie 8 14 2130
+solicitalicitatie 4 14 2439
+solicitalicitatie 4 9 2107
+solicitalicitatie 8 1 1284
+solicitalicitatie 8 16 1248
+solicitalicitatie 5 12 1469

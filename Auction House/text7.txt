@@ -1,0 +1,138 @@
+adprodus Bijuterie InelDiamant 0 750 2018 Diamant True 3 11
+adprodus Mobila MobilaElena 0 100 2020 Dulap LemnMolid 3 15
+adprodus Bijuterie InelRubin 0 500 2019 Rubin True 2 12
+adprodus Mobila PatVechi 0 50 2000 Pat LemnStejar 2 8
+adprodus Bijuterie InelAur 0 300 2020 Aur False 2 7
+adprodus Tablou Flori 0 500 2005 GeorgeAvram Ulei 2 9
+adprodus Tablou Carute 0 300 2002 IonutPandele Ulei 3 5
+adprodus Tablou ArtaMoarta 0 200 2010 FlorinGeambasu Tempera 3 7
+adprodus Tablou Tigancusa 0 100 2012 RaulEftimiu Ulei 2 14
+adprodus Bijuterie InelSwarovski 0 3000 2018 Diamant True 2 10
+adclient PF Maricel Strada_Florilor_Bucuresti 01.02.1995
+adclient PF Geani Bulevardul_Bucuresti 12.05.1990
+adclient PF Vlad Strada_Laptariei_Mereni 19.08.2000
+adclient PF Ionel Strada_Gherman_Bucuresti 10.10.1998
+adclient PJ Victor Strada_Bogatilor_Bucuresti SRL 20000
+adclient PF Ramon Strada_Telefoniei_Mihailesti 06.07.1970
+adbroker Marcela
+adclient PF Laurentiu Strada_Boss_Bucuresti 04.02.1970
+adclient PJ Laur Strada_Paul_Popovici SA 1000
+adbroker Margareta
+adclient PF Lucian Strada_Resita_Bucuresti 17.04.2000
+solicitalicitatie 1 2 2144
+solicitalicitatie 4 7 2229
+solicitalicitatie 7 7 932
+solicitalicitatie 7 4 2348
+solicitalicitatie 6 6 2067
+solicitalicitatie 8 3 2156
+solicitalicitatie 8 1 1576
+solicitalicitatie 9 6 2282
+solicitalicitatie 7 6 2127
+solicitalicitatie 6 8 1121
+solicitalicitatie 1 9 2435
+solicitalicitatie 7 9 1158
+solicitalicitatie 8 7 1328
+solicitalicitatie 3 1 1188
+solicitalicitatie 7 6 2231
+solicitalicitatie 3 1 1949
+solicitalicitatie 1 4 1475
+solicitalicitatie 9 4 1642
+solicitalicitatie 8 1 2283
+solicitalicitatie 3 7 1095
+solicitalicitatie 8 10 1877
+solicitalicitatie 4 6 1705
+solicitalicitatie 6 8 1882
+solicitalicitatie 8 5 2437
+solicitalicitatie 3 9 1865
+solicitalicitatie 2 3 1802
+solicitalicitatie 4 4 2018
+solicitalicitatie 7 2 1249
+solicitalicitatie 4 1 2286
+solicitalicitatie 5 3 2383
+solicitalicitatie 7 1 2007
+solicitalicitatie 1 3 1731
+solicitalicitatie 7 10 1214
+solicitalicitatie 2 8 1419
+solicitalicitatie 5 9 1574
+adprodus Tablou ArtaModerna 0 700 2015 NicolaeRachelea Acrilic 2 10
+adprodus Mobila NoptieraAnastasia 0 200 2021 Noptiera LemnStejar 3 20
+adprodus Bijuterie BrataraSmarald 0 1700 2020 Smarald True 4 15
+adprodus Tablou LaTara 0 1000 1990 GiovanniGioconda Acrilic 2 10
+adprodus Mobila BirouGaming 0 150 2020 Birou LemnNuc 3 13
+adbroker Florentin
+adbroker Marius
+solicitalicitatie 7 14 1300
+solicitalicitatie 1 12 2469
+solicitalicitatie 8 14 1184
+solicitalicitatie 6 14 1083
+solicitalicitatie 3 11 1849
+solicitalicitatie 8 12 1411
+solicitalicitatie 5 14 1058
+solicitalicitatie 1 15 1347
+solicitalicitatie 1 13 1405
+solicitalicitatie 2 11 1493
+solicitalicitatie 5 11 1675
+solicitalicitatie 8 15 2088
+solicitalicitatie 5 13 1756
+solicitalicitatie 8 14 1328
+solicitalicitatie 4 13 1649
+solicitalicitatie 9 15 2077
+solicitalicitatie 6 11 2306
+solicitalicitatie 3 15 1306
+solicitalicitatie 4 14 2367
+solicitalicitatie 5 14 2019
+solicitalicitatie 9 15 2174
+solicitalicitatie 9 12 2258
+solicitalicitatie 3 12 1349
+solicitalicitatie 6 13 1642
+solicitalicitatie 8 13 1347
+solicitalicitatie 5 15 2193
+solicitalicitatie 7 13 945
+solicitalicitatie 7 11 970
+solicitalicitatie 5 13 1096
+solicitalicitatie 7 14 1088
+solicitalicitatie 8 14 2489
+solicitalicitatie 9 11 1385
+solicitalicitatie 1 15 1977
+solicitalicitatie 5 12 1648
+solicitalicitatie 2 11 1848
+adprodus Tablou Lilieci 0 200 2002 LucianStoenescu Ulei 2 9
+adprodus Bijuterie ColierArgint 0 1000 2016 Argint False 4 16
+adprodus Mobila PatNou 0 500 2005 Pat LemnMesteacan 3 11
+adprodus Tablou BucurestiulAbstract 0 1000 2015 EmilianChivulescu Ulei 2 10
+adprodus Mobila DulapMagdalena 0 100 2005 Dulap LemnMolid 2 5
+solicitalicitatie 7 16 2034
+solicitalicitatie 4 19 2085
+solicitalicitatie 2 16 2089
+solicitalicitatie 2 18 2394
+solicitalicitatie 2 18 1707
+solicitalicitatie 3 17 1325
+solicitalicitatie 5 20 1529
+solicitalicitatie 7 19 1978
+solicitalicitatie 2 19 1494
+solicitalicitatie 7 20 2225
+solicitalicitatie 3 17 1915
+solicitalicitatie 9 16 2291
+solicitalicitatie 7 19 1450
+solicitalicitatie 9 19 1167
+solicitalicitatie 1 19 2111
+solicitalicitatie 1 18 1380
+solicitalicitatie 4 19 1258
+solicitalicitatie 8 19 1106
+solicitalicitatie 4 17 1800
+solicitalicitatie 1 20 1142
+solicitalicitatie 2 18 1315
+solicitalicitatie 2 16 1273
+solicitalicitatie 5 20 1410
+solicitalicitatie 9 19 2389
+solicitalicitatie 9 20 2215
+solicitalicitatie 4 20 2492
+solicitalicitatie 1 16 968
+solicitalicitatie 7 17 1688
+solicitalicitatie 7 17 1065
+solicitalicitatie 5 16 1942
+solicitalicitatie 3 20 1983
+solicitalicitatie 6 17 2349
+solicitalicitatie 1 16 991
+solicitalicitatie 5 20 1781
+solicitalicitatie 9 16 2182
