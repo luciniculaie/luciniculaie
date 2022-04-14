@@ -1,0 +1,10 @@
+addcurrency GPB £ 1.10
+setstorecurrency GPB
+listcurrencies
+loadcsv amazon_co-ecommerce_cleaned.csv
+showproduct efd930e211f53b76d47e01f722b95dea
+showproduct efd9g3e211f53b76241421sa2412rfsd
+setstorecurrency EUR
+listmanufacturers
+listproductsbymanufacturer Bandai
+quit

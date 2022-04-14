@@ -1,0 +1,74 @@
+EUR 1.0
+GBP 1.1
+808861a3a7355a080e0e1ad3cd51ba3f,B Train Shorty DD51 Diesel Locomotive Renewal Car A(Blue) & B(Red) (2-Car Set) (Model Train),Bandai,£22.58,9
+705c8011113d828c5549f4ef42dffb5a,ULTRA-ACT Ultraman Nexus Genet Ssu Blue (japan import),Bandai,£68.16,14
+a50caf5a58d8a62571e2186c22c14654,Ultra-Act : Father of Ultra,Bandai,£39.48,14
+dec51214082f49a83b86602119dcaf7f,500 08 Black King Ultra Monster (japan import),Bandai,£4.71,15
+ac03772e8a95f572f9f7a721ca4a67ba,One Piece Chibi-Arts Action Figure: Portgas D. Ace 10 cm,Bandai,£30.47,17
+c99b0ab30466af79b88c3467477d6637,2008 Power Rangers Jungle Fury Gekiranger Violet Geki Wolf -- Violet Ranger Zord,Bandai,£34.07,8
+050c1ac4390e7af07c0545f57e2b3443,Figure-rise 6 - Accel World Black Lotus Plastic Model Construction Kit,Bandai,£23.71,12
+4570d950abd5f04748a741a35687699e,SH Figuarts Kamen Rider Agito Shining Form (Japan import / The package and the manual are written in Japanese),Bandai,£29.31,17
+39e7dfd0a2cc7d46ca200f7b0f409f2b,Bandai Tamashii Nations S.H.Figuarts Kamen Rider Garren and Red Rhombus Action Figure,Bandai,£37.73,15
+6807d6ac99dd1b2abcfa88e46d0d03f9,Bandai Kamen Rider Gaim AC11 Kamen Rider Gaim Kachidoki Arms,Bandai,£23.14,17
+f7012eb9a89f23d9829e3d9cb45d1106,Cardboard Senki 012 LBX Fenrir (1/1 scale Plastic Model) Bandai [JAPAN] [Toy],Bandai,£28.63,9
+f635638619c0ea278b0ebc4e9ca0003e,S.H.Figuarts - Bouken Red (GoGo Sentai Boukenger),Bandai,£17.13,17
+d332f950c1ad874f331067ae8e3b454c,Godzilla Movie Monster EX Pvc Figure~Mecha Godzilla,Bandai,£10.99,6
+02997644d04aedb1fb98ed42a9485784,Ben10 Alien Force Creation Battle Launcher Swampfire,Bandai,£10.95,5
+892430f4fd981c85cf2cf07f87c2f289,Ben 10 Ultimate Alien 10cm Figure - Ultimized Ampfibian,Bandai,£11.0,0
+c2a68822419adc10045d5d2fcd282871,Bandai Tamashii Nations Gray Version Effect Impact Action Figure,Bandai,£16.99,22
+cfd136a36be64d3db6813c5ece9d7b48,Robot Soul Spirits 039 Gundam 00 Seven Sword figure [Toy],Bandai,£23.24,17
+0fd0dec0e74d76383fd30fd6d465651e,Wizard Action Please WAP!08 - Kamen Rider Beast & Beast Chimera,Bandai,£39.98,12
+a8ce4d3554cbd6a3cee7d07169662805,500 05 Eleking Ultra Monster (japan import),Bandai,£6.0,11
+1d5f41559ee0f562b5afdd0e3cc8caae,Movie Monster Series - Keizer Ghidorah,Bandai,£147.3,5
+f0409f2caaa4d7e8795c23eba815ade9,Ultra Monster 500 25 Golza (Ultraman Tiga),Bandai,£5.13,18
+918f1e2aa0faa8c34c89b033aba2feea,Bandai Dragon Ball Z Kai Kyukyoku! DX Chosenshi Scouter Green ver.,Bandai,£34.49,12
+7206b2db2b281abff9a6378b5fff0696,Bandai #05 Freedom Gundam 1/144 Real Grade,Bandai,£16.32,30
+babcf020e1d6299b06ed8ce7b3db859d,Kyouryujya Gaburukyanon DX Set,Bandai,£172.68,8
+efd930e211f53b76d47e01f722b95dea,Ben 10 Ultimate Alien 10cm Water Hazard,Bandai,£9.99,4
+2bfe3af9b7a2fe6123c6952f88d3c9f7,Bandai Tamashii Nations Shenlong x Lingyin Huang "Infinite Stratos" Armor Girls Project Action Figure (japan import),Bandai,£59.72,18
+b7415d4b012572d648d39443153d1899,Bandai Armouron Accessory Set Spikes,Bandai,£16.99,2
+5636e55bed04cf91b79555623805cd71,Digimon Fusion - 10cm Shoutmon Digi-Fusion Figure and Card,Bandai,£11.97,4
+554b94286def2f8061fb131e486319b1,One Piece S.H. Figuarts Action Figure: Sanji 14 cm,Bandai,£40.07,17
+972d18952b226fe3c0e9b7f55776a3f9,Bandai Dragon Ball Z Sh Figuarts Piccolo Comic Con Exclusive,Bandai,£303.12,0
+90f49283be722733f82a08db41da5b8f,Ben 10 Ultimate Alien 10cm NRG,Bandai,£4.51,14
+3c5148effe5d36f4058c46d861f061a8,Bandai Figuarts ZERO PVC Statue Boa Hancock One Piece,Bandai,£32.12,26
+94d18e86e504bee1e392df7e5738b18a,Star Wars 1/72 Y-Wing Starfighter,Bandai,£21.2,31
+PERCENTAGE_DISCOUNT 10.0 "10% BF" Discount was never applied
+PERCENTAGE_DISCOUNT 10.0 "10% BF" 2021-01-24T19:39:32.108507400
+808861a3a7355a080e0e1ad3cd51ba3f,B Train Shorty DD51 Diesel Locomotive Renewal Car A(Blue) & B(Red) (2-Car Set) (Model Train),Bandai,£20.322,9
+705c8011113d828c5549f4ef42dffb5a,ULTRA-ACT Ultraman Nexus Genet Ssu Blue (japan import),Bandai,£61.343999999999994,14
+a50caf5a58d8a62571e2186c22c14654,Ultra-Act : Father of Ultra,Bandai,£35.532,14
+dec51214082f49a83b86602119dcaf7f,500 08 Black King Ultra Monster (japan import),Bandai,£4.239,15
+ac03772e8a95f572f9f7a721ca4a67ba,One Piece Chibi-Arts Action Figure: Portgas D. Ace 10 cm,Bandai,£27.423,17
+c99b0ab30466af79b88c3467477d6637,2008 Power Rangers Jungle Fury Gekiranger Violet Geki Wolf -- Violet Ranger Zord,Bandai,£30.663,8
+050c1ac4390e7af07c0545f57e2b3443,Figure-rise 6 - Accel World Black Lotus Plastic Model Construction Kit,Bandai,£21.339000000000002,12
+4570d950abd5f04748a741a35687699e,SH Figuarts Kamen Rider Agito Shining Form (Japan import / The package and the manual are written in Japanese),Bandai,£26.378999999999998,17
+39e7dfd0a2cc7d46ca200f7b0f409f2b,Bandai Tamashii Nations S.H.Figuarts Kamen Rider Garren and Red Rhombus Action Figure,Bandai,£33.956999999999994,15
+6807d6ac99dd1b2abcfa88e46d0d03f9,Bandai Kamen Rider Gaim AC11 Kamen Rider Gaim Kachidoki Arms,Bandai,£20.826,17
+f7012eb9a89f23d9829e3d9cb45d1106,Cardboard Senki 012 LBX Fenrir (1/1 scale Plastic Model) Bandai [JAPAN] [Toy],Bandai,£25.767,9
+f635638619c0ea278b0ebc4e9ca0003e,S.H.Figuarts - Bouken Red (GoGo Sentai Boukenger),Bandai,£15.416999999999998,17
+d332f950c1ad874f331067ae8e3b454c,Godzilla Movie Monster EX Pvc Figure~Mecha Godzilla,Bandai,£9.891,6
+02997644d04aedb1fb98ed42a9485784,Ben10 Alien Force Creation Battle Launcher Swampfire,Bandai,£9.854999999999999,5
+892430f4fd981c85cf2cf07f87c2f289,Ben 10 Ultimate Alien 10cm Figure - Ultimized Ampfibian,Bandai,£9.9,0
+c2a68822419adc10045d5d2fcd282871,Bandai Tamashii Nations Gray Version Effect Impact Action Figure,Bandai,£15.290999999999999,22
+cfd136a36be64d3db6813c5ece9d7b48,Robot Soul Spirits 039 Gundam 00 Seven Sword figure [Toy],Bandai,£20.915999999999997,17
+0fd0dec0e74d76383fd30fd6d465651e,Wizard Action Please WAP!08 - Kamen Rider Beast & Beast Chimera,Bandai,£35.982,12
+a8ce4d3554cbd6a3cee7d07169662805,500 05 Eleking Ultra Monster (japan import),Bandai,£5.4,11
+1d5f41559ee0f562b5afdd0e3cc8caae,Movie Monster Series - Keizer Ghidorah,Bandai,£132.57000000000002,5
+f0409f2caaa4d7e8795c23eba815ade9,Ultra Monster 500 25 Golza (Ultraman Tiga),Bandai,£4.617,18
+918f1e2aa0faa8c34c89b033aba2feea,Bandai Dragon Ball Z Kai Kyukyoku! DX Chosenshi Scouter Green ver.,Bandai,£31.041,12
+7206b2db2b281abff9a6378b5fff0696,Bandai #05 Freedom Gundam 1/144 Real Grade,Bandai,£14.688,30
+babcf020e1d6299b06ed8ce7b3db859d,Kyouryujya Gaburukyanon DX Set,Bandai,£155.412,8
+efd930e211f53b76d47e01f722b95dea,Ben 10 Ultimate Alien 10cm Water Hazard,Bandai,£8.991,4
+2bfe3af9b7a2fe6123c6952f88d3c9f7,Bandai Tamashii Nations Shenlong x Lingyin Huang "Infinite Stratos" Armor Girls Project Action Figure (japan import),Bandai,£53.748,18
+b7415d4b012572d648d39443153d1899,Bandai Armouron Accessory Set Spikes,Bandai,£15.290999999999999,2
+5636e55bed04cf91b79555623805cd71,Digimon Fusion - 10cm Shoutmon Digi-Fusion Figure and Card,Bandai,£10.773,4
+554b94286def2f8061fb131e486319b1,One Piece S.H. Figuarts Action Figure: Sanji 14 cm,Bandai,£36.063,17
+972d18952b226fe3c0e9b7f55776a3f9,Bandai Dragon Ball Z Sh Figuarts Piccolo Comic Con Exclusive,Bandai,£272.808,0
+90f49283be722733f82a08db41da5b8f,Ben 10 Ultimate Alien 10cm NRG,Bandai,£4.059,14
+3c5148effe5d36f4058c46d861f061a8,Bandai Figuarts ZERO PVC Statue Boa Hancock One Piece,Bandai,£28.907999999999998,26
+94d18e86e504bee1e392df7e5738b18a,Star Wars 1/72 Y-Wing Starfighter,Bandai,£19.08,31
+£533.412
+EUR 1.0
+GBP 1.09
+EUR
