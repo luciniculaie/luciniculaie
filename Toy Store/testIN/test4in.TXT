@@ -1,0 +1,30 @@
+addcurrency GBP £ 1.10
+setstorecurrency GBP
+listcurrencies
+loadcsv amazon_co-ecommerce_cleaned.csv
+addcurrency LEU RON 0.4
+listcurrencies
+listproductsbymanufacturer Chessex
+setstorecurrency LEU
+getstorecurrency
+listproductsbymanufacturer Chessex
+updateparity LEU 0.1
+setstorecurrency EUR
+listproductsbymanufacturer Chessex
+setstorecurrency GBP
+updateparity GBP 1.25
+listcurrencies
+setstorecurrency EUR
+getstorecurrency
+setstorecurrency LEU
+savecsv amazon_leu.csv
+adddiscount PERCENTAGE 15 "15% DE VARA"
+listdiscounts
+showproduct 42d20aa25e5902eff9f5d307bb38230e
+applydiscount PERCENTAGE 15
+showproduct 42d20aa25e5902eff9f5d307bb38230e
+listdiscounts
+listproductsbymanufacturer Chessex
+updateparity LEU 0.5
+listcurrencies
+quit
